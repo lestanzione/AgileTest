@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgileTest</string>
+    <string name="title_home">GitHub Viewer</string>
+    <string name="message_user_not_found">User not found. Please enter another name</string>
+    <string name="message_api_error">A network error has occurred. Check your Internet connection and try again later.</string>
+    <string name="hint_git_username">Git username</string>
+    <string name="button_search">Search</string>
+    <string name="snackbar_default">OK</string>
+</resources>
